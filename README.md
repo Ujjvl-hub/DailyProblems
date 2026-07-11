@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2685-count-the-number-of-complete-components) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
