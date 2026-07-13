@@ -6,30 +6,39 @@ public:
         int carry = 0;
         string res="";
 
-        while(i>=0 || j>=0 || carry>0){
-            int d1= (i>=0)? num1[i]-'0' : 0;
-            int d2 = (j>=0)? num2[j]-'0':0;
+        while(i >= 0 && j >= 0){
+            int d1 = num1[i] - '0';
+            int d2 = num2[j] - '0';
 
-            int sum = d1+d2+ carry;
-            int num= sum%10;
-            carry = sum/10;
-        
-            res+=(num+'0');
+            int sum = d1 + d2 + carry;
+            res += (sum % 10) + '0';
+            carry = sum / 10;
+
             i--;
             j--;
         }
 
-        while(i>=0){
-            res+=num1[i];
+        while(i >= 0){
+            int sum = (num1[i] - '0') + carry;
+            res += (sum % 10) + '0';
+            carry = sum / 10;
             i--;
         }
 
-        while(j>=0){
-            res+=num2[j];
+        while(j >= 0){
+            int sum = (num2[j] - '0') + carry;
+            res += (sum % 10) + '0';
+            carry = sum / 10;
             j--;
         }
-        int start =0;
-        int end= res.length()-1;
+
+        if(carry)
+            res += (carry + '0');
+
+
+        int start=0;
+        int end = res.length()-1;
+
         while(start<end){
             swap(res[start],res[end]);
             start++;
