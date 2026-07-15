@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
