@@ -27,8 +27,8 @@ public:
 
         int count=0;
 
-        int i=0;
-        int j=0; 
+        // int i=0;
+        // int j=0; 
 
         vector<vector<bool>> visited(n,vector<bool>(m,false));
         
