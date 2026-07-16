@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0006-zigzag-conversion) |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
+| [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
