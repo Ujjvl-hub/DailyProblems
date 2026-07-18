@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
