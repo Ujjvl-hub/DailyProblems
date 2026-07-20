@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -140,7 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
