@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 ## Sliding Window
 |  |
 | ------- |
