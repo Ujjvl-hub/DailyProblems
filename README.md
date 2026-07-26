@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0997-find-the-town-judge) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -202,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
