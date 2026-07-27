@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
