@@ -1,25 +1,44 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<int> res(n,1e8);
+        
+        unordered_map<int,vector<pair<int,int>>> adj;
 
-        res[src] = 0;
-        for(int i=0;i<=k;i++){
-            vector<int> temp =res;
+        for(int i=0;i<flights.size();i++){
+            int u = flights[i][0];
+            int v = flights[i][1];
+            int wt = flights[i][2];
 
-            for(int j=0;j<flights.size();j++){
-                int u = flights[j][0];
-                int v  = flights[j][1];
-                int wt = flights[j][2];
-
-               if(res[u] != 1e8 && res[u] + wt < temp[v]){
-                    temp[v] = res[u]+ wt;
-                }
-
-            }
-            res = temp;
+            adj[u].push_back({v,wt});
         }
-        if(res[dst]==1e8) return -1;
-        return res[dst];
+
+        vector<int> distance(n,1e9);
+        distance[src] = 0;
+
+        queue<pair<int,pair<int,int>>> q;
+        q.push({0,{0,src}});
+
+        while(!q.empty()){
+            auto p = q.front();
+            q.pop();
+
+            int stops = p.first;
+            int cost = p.second.first;
+            int node = p.second.second;
+
+            if(stops>k) continue;
+            for(auto it: adj[node]){
+                int v = it.first;
+                int wt = it.second;
+
+                if(cost + wt < distance[v] && stops<=k){
+                    distance[v]= cost+ wt;
+                    q.push({stops+1,{cost+ wt,v}});
+                }
+            }
+            
+        }
+        if(distance[dst]==1e9) return -1;
+        return distance[dst];
     }
 };
