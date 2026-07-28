@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
