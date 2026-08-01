@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
@@ -255,9 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
