@@ -17,7 +17,7 @@ public:
             }
             // right part
             else{
-                if(nums[mid]<target && target<=nums[high]) low = mid/=1;
+                if(nums[mid]<target && target<=nums[high]) low = mid+1;
                 else high = mid-1;
             }
         }
