@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
+| [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0098-validate-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
