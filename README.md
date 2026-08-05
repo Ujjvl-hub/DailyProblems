@@ -333,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
