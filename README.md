@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
