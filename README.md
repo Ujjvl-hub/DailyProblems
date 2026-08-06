@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
