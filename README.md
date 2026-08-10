@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
