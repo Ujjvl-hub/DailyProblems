@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0785-is-graph-bipartite) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
