@@ -9,40 +9,45 @@ private:
     }
 
     void dfs(int i,int j,int n,int m,vector<vector<bool>> &visited,vector<vector<int>>& grid ){
-        visited[i][j] = true;
+       visited[i][j] = true;
 
-        for(int k=0;k<4;k++){
+       for(int k=0;k<4;k++){
             int r = i + x[k];
             int c = j + y[k];
 
             if(isValid(r,c,n,m) && !visited[r][c] && grid[r][c]==1){
                 dfs(r,c,n,m,visited,grid);
             }
-        }
+       }
+        
 
+    }
+    bool isBoundary(int i, int j, int n, int m){
+        if(i==0 || i==n-1 || j==0 || j==m-1) return true;
+        return false;
     }
 public:
     int numEnclaves(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        int count=0;
+        int count = 0;
 
         vector<vector<bool>> visited(n,vector<bool>(m,false));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(i==0 || i==n-1 || j==0 || j==m-1){
-                    if(!visited[i][j] && grid[i][j]==1){
-                        dfs(i,j,n,m,visited,grid);
-                    }
+                if(!visited[i][j] && isBoundary(i,j,n,m) && grid[i][j]==1){
+                    dfs(i,j,n,m,visited,grid);
                 }
             }
         }
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!visited[i][j] && grid[i][j]==1) count++;
+                if(!visited[i][j] && grid[i][j]==1){
+                   count++;
+                }
             }
         }
-        return count;
+       return count;
     }
 };
