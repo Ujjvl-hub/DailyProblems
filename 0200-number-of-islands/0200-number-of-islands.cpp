@@ -30,7 +30,7 @@ public:
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(isValid(i,j,n,m) && !visited[i][j] && grid[i][j]=='1'){
+                if(!visited[i][j] && grid[i][j]=='1'){
                     dfs(i,j,n,m,visited,grid);
                     count++;
                 }
