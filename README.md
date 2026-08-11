@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
+| [0542-01-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0877-stone-game) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
