@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3310-remove-methods-from-project) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
