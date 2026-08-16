@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Lifting
 |  |
