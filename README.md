@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
