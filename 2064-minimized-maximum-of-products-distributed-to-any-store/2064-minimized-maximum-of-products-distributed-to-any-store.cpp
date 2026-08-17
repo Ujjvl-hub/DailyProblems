@@ -15,20 +15,20 @@ public:
     int minimizedMaximum(int n, vector<int>& quantities) {
         int low=1;
         int high = 0;
-        int ans  =0;
+        // int ans  =0;
         for(int i=0;i<quantities.size();i++){
             high = max(high,quantities[i]);
         }
 
-        while(low<=high){
+        while(low<high){
             int mid= low+(high-low)/2;
 
             if(isPossible(mid,quantities,n)){
-                ans = mid;
-                high = mid-1;
+                // ans = mid;
+                high = mid;
 
             }else low = mid+1;
         }
-        return ans;
+        return low;
     }
 };
