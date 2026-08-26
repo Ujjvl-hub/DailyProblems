@@ -1,39 +1,45 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int first = nums1.size();
-        int second = nums2.size();
-        int size  = first+second;
-        if(first> second) return findMedianSortedArrays(nums2,nums1);
+        // to make the complexity O(log(min(m,n))) ( always binary search on smaller array)
+        if(nums1.size()>nums2.size()){
+            return findMedianSortedArrays(nums2,nums1);
+        }
 
-        int low = 0;
-        int high = first;
-        int left = (first+second+1)/2;
+        int m = nums1.size();
+        int n = nums2.size();
+
+        int low= 0;
+        int high = m;
+
         while(low<=high){
-            int mid1 = low+(high-low)/2;
-            int mid2 = left-mid1;
+            int px = low+(high-low)/2;   // total elements taken in nums1
+            int py = (m+n+1)/2 - px;    // elements taken from nums2
 
-            int l1 = INT_MIN;
-            int l2 = INT_MIN;
-            int r1 = INT_MAX;
-            int r2 = INT_MAX;
+            //left half
+            int x1 = (px==0)? INT_MIN: nums1[px-1];
+            int x2 = (py==0)? INT_MIN: nums2[py-1];
 
-            if(mid1 < first) r1 = nums1[mid1];
-            if(mid2 < second) r2 = nums2[mid2];
+            //right half
+            int x3 = (px==m)? INT_MAX: nums1[px];
+            int x4 =(py==n)?  INT_MAX: nums2[py];
 
-            if(mid1 - 1 >=0) l1 = nums1[mid1-1];
-            if(mid2-1>=0) l2= nums2[mid2-1];
-
-            if(l1<=r2 && l2 <= r1) {
-                if(size%2==1) {
-                    return max(l1,l2);
+            // found mid
+            if(x1<=x4 && x2<=x3){
+                // if odd size
+                if((m+n)%2==1){
+                    return max(x1,x2);
+                }else{
+                    return (max(x1,x2) + min(x3,x4))/2.0;
                 }
-                return (double)(max(l1,l2)+ min(r1,r2))/2.0;
+            }
 
-            }else if(l1 > r2){
-                high = mid1-1;
-            }else low= mid1+1;
-
+            // if not found
+            if(x1>x4){
+                high = px-1;
+            }else{
+                low = px+1;
+            }
 
         }
         return -1;
