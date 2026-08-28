@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0509-fibonacci-number) |
