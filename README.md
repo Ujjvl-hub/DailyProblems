@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
 ## Topological Sort
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -497,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0645-set-mismatch) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
