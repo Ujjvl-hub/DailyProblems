@@ -10,16 +10,25 @@
  * };
  */
 class Solution {
-    bool isSymmetricFast(TreeNode* left, TreeNode* right){
+private:
+    bool check(TreeNode* left, TreeNode* right){
         if(left==NULL && right==NULL) return true;
         if(left==NULL || right==NULL) return false;
-        
         if(left->val != right->val) return false;
-        return (isSymmetricFast(left->left,right->right) && isSymmetricFast(left->right, right->left));
+        bool l = check(left->left, right->right);
+        bool r = check(left->right, right->left);
+        return l && r;
     }
 public:
     bool isSymmetric(TreeNode* root) {
         if(root==NULL) return true;
-        return isSymmetricFast(root->left,root->right);
+        if(root->left==NULL && root->right==NULL) return true;
+        if(root->left==NULL || root->right==NULL) return false;
+        if(root->left->val != root->right->val) return false;
+       
+        return check(root->left, root->right);
+        
+
+       
     }
 };
