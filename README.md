@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0207-course-schedule) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
