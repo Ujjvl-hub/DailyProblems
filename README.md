@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1254-number-of-closed-islands) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Lifting
