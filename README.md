@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
