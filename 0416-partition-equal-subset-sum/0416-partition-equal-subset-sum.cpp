@@ -1,22 +1,4 @@
 class Solution {
-private:
-    bool check(int i,int n,int sum, vector<int> &nums,vector<vector<int>> &dp){
-        // base case
-        if(i==n){
-            if(sum==0) return true;
-            return false;
-        }
-        if(dp[i][sum]!=-1) return dp[i][sum];
-        bool taken = false;
-        // include
-        if(nums[i]<=sum){
-            taken = check(i+1,n,sum-nums[i],nums,dp);
-        }
-        // exclude
-        bool notTaken = check(i+1,n,sum,nums,dp);
-
-        return dp[i][sum] = taken || notTaken;
-    }
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -28,6 +10,20 @@ public:
         if(sum%2==1) return false;
         sum/=2;
         vector<vector<int>> dp(n+1,vector<int>(sum+1,-1));
-        return check(0,n,sum,nums,dp);
+
+        for(int i=0;i<=n;i++){
+            for(int j=0;j<=sum;j++){
+                if(j==0){
+                    dp[i][j] = 1;
+                }
+                else if(i==0 && j>0) dp[i][j] = 0;
+                else if(nums[i-1]<=j){
+                    dp[i][j] = dp[i-1][j-nums[i-1]] || dp[i-1][j];;
+                    
+                }
+                else dp[i][j] = dp[i-1][j];
+            }
+        }
+        return dp[n][sum];
     }
 };
