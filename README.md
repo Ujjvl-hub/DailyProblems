@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
 | [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0486-predict-the-winner) |
