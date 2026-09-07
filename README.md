@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0500-keyboard-row) |
 | [0686-repeated-string-match](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0856-score-of-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
