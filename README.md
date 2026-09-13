@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0875-koko-eating-bananas) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1020-number-of-enclaves) |
