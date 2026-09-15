@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
