@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
