@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0130-surrounded-regions) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
