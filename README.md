@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
+| [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1929-concatenation-of-array) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0778-swim-in-rising-water) |
+| [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0994-rotting-oranges) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 ## Hash Function
 |  |
 | ------- |
