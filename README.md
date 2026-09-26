@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1710-maximum-units-on-a-truck) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2423-remove-letter-to-equalize-frequency) |
