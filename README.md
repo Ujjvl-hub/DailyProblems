@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -597,11 +598,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
