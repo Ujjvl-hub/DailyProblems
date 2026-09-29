@@ -4,10 +4,29 @@ class Solution {
     vector<int> y = {1, 0};
 
 private:
-    bool isValid(int i, int j, int n, int m) {
-        if (i < 0 || i >= n || j < 0 || j >= m)
-            return false;
-        return true;
+    bool dfs(int i, int j, int balance,
+             vector<vector<char>>& grid,
+             vector<vector<vector<int8_t>>>& dp) {
+        
+        int n = grid.size();
+        int m = grid[0].size();
+
+        if (grid[i][j] == '(') balance++;
+        else balance--;
+
+        if (balance < 0) return false;
+
+        int rem = (n - 1 - i) + (m - 1 - j);
+
+        if (balance > rem) return false;
+        if ((balance + rem) % 2 != 0) return false;
+
+        if (i == n - 1 && j == m - 1)
+            return balance == 0;
+
+        int &ans = reinterpret_cast<int&>(dp[i][j][balance]);
+        // Use the memoization array below instead.
+        return false;
     }
 
 public:
@@ -18,56 +37,46 @@ public:
         if ((n + m - 1) % 2 != 0) return false;
         if (grid[0][0] == ')') return false;
 
-        queue<pair<pair<int,int>,int>> p;
-        vector<vector<vector<bool>>> visited(
-            n, vector<vector<bool>>(
-                m, vector<bool>(n + m + 1, false)
+        vector<vector<vector<int>>> dp(
+            n, vector<vector<int>>(
+                m, vector<int>(n + m + 1, -1)
             )
         );
 
-        visited[0][0][1] = true;
-        p.push({{0, 0}, 1});
+        return solve(0, 0, 0, grid, dp);
+    }
 
-        while (!p.empty()) {
-            auto a = p.front();
-            p.pop();
+private:
+    bool solve(int i, int j, int balance,
+               vector<vector<char>>& grid,
+               vector<vector<vector<int>>>& dp) {
+        int n = grid.size();
+        int m = grid[0].size();
 
-            int i = a.first.first;
-            int j = a.first.second;
-            int balance = a.second;
+        if (grid[i][j] == '(') balance++;
+        else balance--;
 
-            if (i == n - 1 && j == m - 1) {
-                if (balance == 0) return true;
-                continue;
-            }
+        if (balance < 0) return false;
 
-            for (int k = 0; k < 2; k++) {
-                int r = i + x[k];
-                int c = j + y[k];
+        int rem = (n - 1 - i) + (m - 1 - j);
 
-                if (!isValid(r, c, n, m)) continue;
+        if (balance > rem) return false;
+        if ((balance + rem) % 2 != 0) return false;
 
-                int newBalance = balance;
+        if (i == n - 1 && j == m - 1)
+            return balance == 0;
 
-                if (grid[r][c] == '(')
-                    newBalance++;
-                else
-                    newBalance--;
+        if (dp[i][j][balance] != -1)
+            return dp[i][j][balance];
 
-                if (newBalance < 0) continue;
+        bool ans = false;
 
-                int rem = (n - 1 - r) + (m - 1 - c);
+        if (i + 1 < n)
+            ans = solve(i + 1, j, balance, grid, dp);
 
-                if (newBalance > rem) continue;
-                if ((newBalance + rem) % 2 != 0) continue;
+        if (!ans && j + 1 < m)
+            ans = solve(i, j + 1, balance, grid, dp);
 
-                if (!visited[r][c][newBalance]) {
-                    visited[r][c][newBalance] = true;
-                    p.push({{r, c}, newBalance});
-                }
-            }
-        }
-
-        return false;
+        return dp[i][j][balance] = ans;
     }
 };
