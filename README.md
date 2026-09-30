@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
