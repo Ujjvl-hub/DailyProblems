@@ -1,28 +1,32 @@
 class Solution {
-private:
-    bool solve(int i,int open, string s,vector<vector<int>>& dp){
-        if(open<0) return false;
-        if(i==s.length()) return open==0;
-
-        if(dp[i][open]!=-1) return dp[i][open];
-        if(s[i]=='('){
-            return dp[i][open] = solve(i+1,open+1,s,dp);
-        }
-        else if(s[i]==')'){
-            return dp[i][open]  = solve(i+1,open-1,s,dp);
-        }
-            
-        bool take_open = solve(i+1,open+1,s,dp);
-        bool take_close = solve(i+1,open-1,s,dp);
-        bool skip = solve(i+1,open,s,dp); 
-        
-        return dp[i][open] = take_open || take_close || skip;
-    }
 public:
     bool checkValidString(string s) {
         int n = s.length();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return solve(0,0,s,dp);
-        
+        vector<vector<bool>> dp(n+1,vector<bool>(n+1,false));
+        dp[n][0] = true;
+        for(int i=n-1;i>=0;i--){ 
+            
+            for(int j=0;j<n;j++){  // open
+                bool isValid = false;
+                if(s[i]=='*'){
+                    isValid|= dp[i+1][j+1];
+                    isValid|=dp[i+1][j];
+                    if(j>0){
+                        isValid|=dp[i+1][j-1];
+                    }
+
+                }else if(s[i]=='('){
+                    isValid|=dp[i+1][j+1];
+                }else{
+                    if(j>0){
+                        isValid|=dp[i+1][j-1];
+                    }
+                }
+
+                dp[i][j] = isValid;
+            }
+            
+        }
+        return dp[0][0];
     }
 };
