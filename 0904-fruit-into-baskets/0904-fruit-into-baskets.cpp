@@ -18,10 +18,8 @@ public:
                     low++;
                 }
             }
-
             int len = high-low +1;
             ans = max(ans,len);
-
         }
         return ans;
     }
