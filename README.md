@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0239-sliding-window-maximum) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
