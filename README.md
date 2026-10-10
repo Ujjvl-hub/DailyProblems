@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
+| [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
 ## Hash Function
 |  |
 | ------- |
