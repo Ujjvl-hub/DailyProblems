@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
