@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2924-find-champion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3310-remove-methods-from-project) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Counting Sort
 |  |
 | ------- |
