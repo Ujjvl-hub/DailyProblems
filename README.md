@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
 | [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Function
 |  |
 | ------- |
