@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0832-flipping-an-image) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
