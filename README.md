@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2401-longest-nice-subarray](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2401-longest-nice-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Ujjvl-hub/DailyProblems/tree/master/3665-twisted-mirror-path-count) |
