@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjvl-hub/DailyProblems/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ujjvl-hub/DailyProblems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
